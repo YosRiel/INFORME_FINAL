@@ -1,0 +1,14 @@
+======================================
+Empresa: FedEx
+Usuario: Gerardo Depaz
+DNI: 71937835
+Fecha: 11/12/2023 01:44:35
+======================================
+Resumen de Carrito:
+Mochila - Precio: S/ 15.0 - Cantidad: 5 - Subtotal: S/ 75.0
+======================================
+Subtotal: S/ 75.0
+IGV 18%: S/ 13.5
+Total: S/ 88.5
+======================================
+Gracias por su compra.
